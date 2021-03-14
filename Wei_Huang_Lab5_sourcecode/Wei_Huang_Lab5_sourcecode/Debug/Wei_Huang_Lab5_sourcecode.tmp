@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Debug\Wei_Huang_Lab5_sourcecode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Wei_Huang_Lab5_sourcecode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Wei_Huang_Lab5_sourcecode.map</FILE>
+  <FILE>Wei_Huang_Lab5_sourcecode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>55</LINE></INIT>
+  <MAIN><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>70</LINE></MAIN>
+  <ADD16_OP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>570</LINE></ADD16_OP1>
+  <OperandA><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>532</LINE></OperandA>
+  <ADD16_OP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>572</LINE></ADD16_OP2>
+  <OperandB><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>534</LINE></OperandB>
+  <ADD16><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>203</LINE></ADD16>
+  <SUB16_OP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>579</LINE></SUB16_OP1>
+  <OperandC><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>538</LINE></OperandC>
+  <SUB16_OP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>581</LINE></SUB16_OP2>
+  <OperandG><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>540</LINE></OperandG>
+  <SUB16><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>237</LINE></SUB16>
+  <MUL24_OP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>588</LINE></MUL24_OP1>
+  <OperandH><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>543</LINE></OperandH>
+  <MUL24_OP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>590</LINE></MUL24_OP2>
+  <OperandK><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>545</LINE></OperandK>
+  <MUL24><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>268</LINE></MUL24>
+  <COMPOUND_OP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>597</LINE></COMPOUND_OP1>
+  <OperandD><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>549</LINE></OperandD>
+  <OperandE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>551</LINE></OperandE>
+  <COMPOUND_OP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>599</LINE></COMPOUND_OP2>
+  <OperandF><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>553</LINE></OperandF>
+  <COMPOUND><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>350</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>190</LINE></DONE>
+  <ADD16_RESULT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>575</LINE></ADD16_RESULT>
+  <SUB16_RESULT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>584</LINE></SUB16_RESULT>
+  <MUL24_RESULT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>593</LINE></MUL24_RESULT>
+  <MUL24_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>292</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>298</LINE></MUL24_ILOOP>
+  <COMPOUND_OP3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>601</LINE></COMPOUND_OP3>
+  <MUL16><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>438</LINE></MUL16>
+  <addrB><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>563</LINE></addrB>
+  <LAddrP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>564</LINE></LAddrP>
+  <MUL16_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>465</LINE></MUL16_OLOOP>
+  <addrA><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>562</LINE></addrA>
+  <MUL16_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>472</LINE></MUL16_ILOOP>
+  <FUNC><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode\Wei_Huang_Lab5_sourcecode.asm</FILE><LINE>516</LINE></FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>

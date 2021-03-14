@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Debug\Wei_Huang_Lab3_sourcecode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Wei_Huang_Lab3_sourcecode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Wei_Huang_Lab3_sourcecode.map</FILE>
+  <FILE>Wei_Huang_Lab3_sourcecode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>55</LINE></INIT>
+  <MAIN><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>64</LINE></MAIN>
+  <LOOP><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>71</LINE></LOOP>
+  <LOOP2><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>80</LINE></LOOP2>
+  <FUNCTION><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>110</LINE></FUNCTION>
+  <DONE><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>100</LINE></DONE>
+  <EXIT><FILE>c:\users\huang wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode\Wei_Huang_Lab3_sourcecode.asm</FILE><LINE>127</LINE></EXIT>
+ </LABELS>
+</ASSEMBLER_INFO>

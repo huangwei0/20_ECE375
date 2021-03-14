@@ -1,0 +1,70 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Debug\Wei_Huang_Lab6_sourcecode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Wei_Huang_Lab6_sourcecode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Wei_Huang_Lab6_sourcecode.map</FILE>
+  <FILE>Wei_Huang_Lab6_sourcecode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>79</LINE></INIT>
+  <HitRight><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>172</LINE></HitRight>
+  <HitLeft><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>212</LINE></HitLeft>
+  <ClearRight><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>283</LINE></ClearRight>
+  <ClearLeft><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>294</LINE></ClearLeft>
+  <LCDInit><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>81</LINE></LCDInit>
+  <WriterightCounter><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>143</LINE></WriterightCounter>
+  <WriteleftCounter><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>157</LINE></WriteleftCounter>
+  <MAIN><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>121</LINE></MAIN>
+  <LCDClrLn1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>246</LINE></LCDClrLn1>
+  <Bin2ASCII><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>345</LINE></Bin2ASCII>
+  <LCDWrLn1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>186</LINE></LCDWrLn1>
+  <LCDClrLn2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>271</LINE></LCDClrLn2>
+  <LCDWrLn2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>211</LINE></LCDWrLn2>
+  <Waitt><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>258</LINE></Waitt>
+  <Loop><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>264</LINE></Loop>
+  <OLoop><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>265</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode.asm</FILE><LINE>266</LINE></ILoop>
+  <LCDINIT_L1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>145</LINE></LCDINIT_L1>
+  <LCDWait><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>498</LINE></LCDWait>
+  <LCDWriteCmd><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>442</LINE></LCDWriteCmd>
+  <LCDClr><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>236</LINE></LCDClr>
+  <LCDWrite><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>176</LINE></LCDWrite>
+  <LCDSetLine><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>394</LINE></LCDSetLine>
+  <LCDWriteLine><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>429</LINE></LCDWriteLine>
+  <LCDClrLine><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>410</LINE></LCDClrLine>
+  <LCDWriteByte><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>308</LINE></LCDWriteByte>
+  <LCDWriteByte_3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>329</LINE></LCDWriteByte_3>
+  <LCDWriteByte_1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>319</LINE></LCDWriteByte_1>
+  <LCDWriteByte_2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>324</LINE></LCDWriteByte_2>
+  <LCDWriteChar><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>463</LINE></LCDWriteChar>
+  <B2A_1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>358</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>366</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>363</LINE></B2A_2>
+  <div10><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>521</LINE></div10>
+  <LCDClrLine_1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>413</LINE></LCDClrLine_1>
+  <LCDWriteLine_1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>431</LINE></LCDWriteLine_1>
+  <LCDWriteData><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>478</LINE></LCDWriteData>
+  <LCDWC_L1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>449</LINE></LCDWC_L1>
+  <LCDW_L1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>499</LINE></LCDW_L1>
+  <LCDW_L2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>500</LINE></LCDW_L2>
+  <div10_1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>560</LINE></div10_1>
+  <div10_2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab6_sourcecode\Wei_Huang_Lab6_sourcecode\LCDDriver.asm</FILE><LINE>566</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>

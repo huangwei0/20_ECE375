@@ -1,0 +1,112 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Debug\Wei_Huang_Lab8_sourcecode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Wei_Huang_Lab8_sourcecode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Wei_Huang_Lab8_sourcecode.map</FILE>
+  <FILE>Wei_Huang_Lab8_sourcecode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <operand1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>45</LINE></operand1>
+  <operand2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>46</LINE></operand2>
+  <operand3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>48</LINE></operand3>
+  <operand4><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>49</LINE></operand4>
+  <operand5><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>51</LINE></operand5>
+  <operand6><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>52</LINE></operand6>
+  <MUL_RESULT1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>55</LINE></MUL_RESULT1>
+  <MUL_RESULT2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>56</LINE></MUL_RESULT2>
+  <MUL_RESULT3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>58</LINE></MUL_RESULT3>
+  <MUL_RESULT4><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>59</LINE></MUL_RESULT4>
+  <MUL_RESULT5><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>61</LINE></MUL_RESULT5>
+  <MUL_RESULT6><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>62</LINE></MUL_RESULT6>
+  <ADD_RESULT1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>65</LINE></ADD_RESULT1>
+  <ADD_RESULT2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>66</LINE></ADD_RESULT2>
+  <ADD_RESULT3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>67</LINE></ADD_RESULT3>
+  <ROOT_RESULT1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>70</LINE></ROOT_RESULT1>
+  <ROOT_RESULT2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>71</LINE></ROOT_RESULT2>
+  <ROOT_RESULT3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>72</LINE></ROOT_RESULT3>
+  <INIT><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>91</LINE></INIT>
+  <TreasureInfo><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1343</LINE></TreasureInfo>
+  <MAIN><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>246</LINE></MAIN>
+  <MUL1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>296</LINE></MUL1>
+  <MUL2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>374</LINE></MUL2>
+  <MUL3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>452</LINE></MUL3>
+  <MUL4><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>530</LINE></MUL4>
+  <MUL5><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>608</LINE></MUL5>
+  <MUL6><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>687</LINE></MUL6>
+  <ADD1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>766</LINE></ADD1>
+  <ADD2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>803</LINE></ADD2>
+  <ADD3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>840</LINE></ADD3>
+  <ROOT1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>875</LINE></ROOT1>
+  <ROOT2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>956</LINE></ROOT2>
+  <ROOT3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1036</LINE></ROOT3>
+  <CHOICE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1116</LINE></CHOICE>
+  <DISTANCE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1212</LINE></DISTANCE>
+  <Grading><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1330</LINE></Grading>
+  <MUL1_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>323</LINE></MUL1_OLOOP>
+  <MUL1_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>330</LINE></MUL1_ILOOP>
+  <MUL2_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>401</LINE></MUL2_OLOOP>
+  <MUL2_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>408</LINE></MUL2_ILOOP>
+  <MUL3_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>479</LINE></MUL3_OLOOP>
+  <MUL3_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>486</LINE></MUL3_ILOOP>
+  <MUL4_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>557</LINE></MUL4_OLOOP>
+  <MUL4_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>564</LINE></MUL4_ILOOP>
+  <MUL5_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>635</LINE></MUL5_OLOOP>
+  <MUL5_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>642</LINE></MUL5_ILOOP>
+  <MUL6_OLOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>714</LINE></MUL6_OLOOP>
+  <MUL6_ILOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>721</LINE></MUL6_ILOOP>
+  <Result1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1351</LINE></Result1>
+  <Result2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1352</LINE></Result2>
+  <Result3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1353</LINE></Result3>
+  <ROOT_LOOP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>891</LINE></ROOT_LOOP1>
+  <ROOT_GET_G1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>943</LINE></ROOT_GET_G1>
+  <ROOT_GET1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>935</LINE></ROOT_GET1>
+  <ROOT_LOW1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>909</LINE></ROOT_LOW1>
+  <ROOT_HIGH1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>904</LINE></ROOT_HIGH1>
+  <ROOT_LOOP_LOOP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>920</LINE></ROOT_LOOP_LOOP1>
+  <ROOT_LOOP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>972</LINE></ROOT_LOOP2>
+  <ROOT_GET_G2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1023</LINE></ROOT_GET_G2>
+  <ROOT_GET2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1015</LINE></ROOT_GET2>
+  <ROOT_LOW2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>989</LINE></ROOT_LOW2>
+  <ROOT_HIGH2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>984</LINE></ROOT_HIGH2>
+  <ROOT_LOOP_LOOP2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1000</LINE></ROOT_LOOP_LOOP2>
+  <ROOT_LOOP3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1052</LINE></ROOT_LOOP3>
+  <ROOT_GET_G3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1103</LINE></ROOT_GET_G3>
+  <ROOT_GET3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1095</LINE></ROOT_GET3>
+  <ROOT_LOW3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1069</LINE></ROOT_LOW3>
+  <ROOT_HIGH3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1064</LINE></ROOT_HIGH3>
+  <ROOT_LOOP_LOOP3><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1080</LINE></ROOT_LOOP_LOOP3>
+  <COMPARE_BD><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1141</LINE></COMPARE_BD>
+  <COMPARE_BF><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1153</LINE></COMPARE_BF>
+  <CPMARE_LOW_AC><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1147</LINE></CPMARE_LOW_AC>
+  <COMPARE_DF><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1165</LINE></COMPARE_DF>
+  <CHOICE_AB><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1177</LINE></CHOICE_AB>
+  <COMPARE_LOW_AE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1159</LINE></COMPARE_LOW_AE>
+  <CHOICE_EF><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1192</LINE></CHOICE_EF>
+  <COMPARE_SAME><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1199</LINE></COMPARE_SAME>
+  <CHOICE_CD><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1184</LINE></CHOICE_CD>
+  <COMPARE_LOW_CE><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1171</LINE></COMPARE_LOW_CE>
+  <BestChoice><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1354</LINE></BestChoice>
+  <ADD_Distance1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1255</LINE></ADD_Distance1>
+  <ADD_Distance2><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1293</LINE></ADD_Distance2>
+  <AvgDistance><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1357</LINE></AvgDistance>
+  <DISTANCE_LOOP><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1230</LINE></DISTANCE_LOOP>
+  <DIS_LOOP1><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1245</LINE></DIS_LOOP1>
+  <DIS_HIGH><FILE>C:\Users\Huang Wei\Documents\Atmel Studio\7.0\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode\Wei_Huang_Lab8_sourcecode.asm</FILE><LINE>1240</LINE></DIS_HIGH>
+ </LABELS>
+</ASSEMBLER_INFO>
