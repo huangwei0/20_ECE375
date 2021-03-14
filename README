@@ -1,0 +1,27 @@
+COMPUTER ORG & ASSEMBLY LANG (ECE_375_001_F2020)
+Catalog Description:
+Introduction to computer organization, how major components in a computer system function together in executing a program, and assembly language programming.
+
+Prerequisites
+Enforced prerequisites: ECE 271
+
+You are expected to be knowledgeable in the following areas:
+
+-Structured programming language (e.g. C, Pascal) expertise
+-Basic building blocks of digital design
+-Fundamentals of Boolean algebra
+
+Course content
+-Introduction to the digital computer system architecture and overview of digital logic circuits
+-Digital components and data representation
+-Basic computer organization and design
+-Microprocessor organization and programming, including I/O, interrupts, and instruction sets
+-Register transfer and micro-operations
+-Central processing unit
+
+Student Learning Objectives
+-Identify major components & their interactions in computer architecture
+-Program in assembly language
+-Implement algorithms for computer arithmetic
+-Compare different instruction set architectures
+-Design input/output for embedded processors
